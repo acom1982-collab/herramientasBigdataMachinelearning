@@ -27,4 +27,4 @@ Este proyecto implementa un flujo de datos (ETL) utilizando **Docker**, **SQL Se
 * `README.md`: Documentación.
 
 ---
-**Desarrollado por:** Tony - Estudiante de Ingeniería de Software
+**Desarrollado por:** Antonio Ortiz, María Forero y Edinsson González - Estudiante de Ingeniería de Software
